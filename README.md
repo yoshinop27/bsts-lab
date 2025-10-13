@@ -1,4 +1,4 @@
-# CSC 207: Trees Lab
+# CSC 207: BSTs Lab
 
 Author: _(TODO: insert your name here!)_
 
